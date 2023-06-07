@@ -1,1 +1,1 @@
-# ICT-Capstone
+# ChatGPT Detection AI
